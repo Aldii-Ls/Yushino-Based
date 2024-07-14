@@ -1,6 +1,6 @@
 {
 	"name": "Yushino-Md",
-	"version": "6.0.0",
+	"version": "1.0.0",
 	"description": "WhatsApp Bot - By Aldi - Whisocket Baileys",
 	"main": "main.js",
 	"type": "module",
@@ -26,16 +26,16 @@
 		"MD",
 		"baileys-md"
 	],
-	"homepage": "https://github.com/clicknetcafe/azamibot-md-multi",
+	"homepage": "https://github.com/Aldii-Ls/Yushino-Based",
 	"author": {
-		"name": "clicknetcafe"
+		"name": "aldii-ls"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/clicknetcafe/azamibot-md-multi.git"
+		"url": "git+https://github.com/Aldii-Ls/Yushino-Based.git"
 	},
 	"bugs": {
-		"url": "https://github.com/clicknetcafe/azamibot-md-multi/issues"
+		"url": "https://github.com/Aldii-Ls/Yushino-Based/issues"
 	},
 	"license": "GPL-3.0-or-later",
 	"dependencies": {
