@@ -1,0 +1,69 @@
+{
+	"name": "Yushino-Md",
+	"version": "6.0.0",
+	"description": "WhatsApp Bot - By Aldi - Whisocket Baileys",
+	"main": "main.js",
+	"type": "module",
+	"directories": {
+		"lib": "lib",
+		"src": "src",
+		"scraper": "scraper",
+		"plugins": "plugins"
+	},
+	"scripts": {
+		"start": "clear && node index.js --autocleartmp --self ",
+		"test": "node index.js --pairing --self",
+		"test2": "nodemon index.js"
+	},
+	"keywords": [
+		"termux-whatsapp-bot",
+		"whatsapp-bot",
+		"whatsapp",
+		"js-whatsapp",
+		"whatsapp",
+		"Games-wabot",
+		"wabot-aq",
+		"multi-device",
+		"MD",
+		"baileys-md"
+	],
+	"homepage": "https://github.com/clicknetcafe/azamibot-md-multi",
+	"author": {
+		"name": "clicknetcafe"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/clicknetcafe/azamibot-md-multi.git"
+	},
+	"bugs": {
+		"url": "https://github.com/clicknetcafe/azamibot-md-multi/issues"
+	},
+	"license": "GPL-3.0-or-later",
+  "dependencies": {
+        "@whiskeysockets/baileys": "github:@zennn08/Baileys#master",
+        "@adiwajshing/keyed-db": "^0.2.4",
+       "awesome-phonenumber": "^6.1.0",
+"axios": "^1.5.1",
+        "cfonts": "*",
+        "chalk": "*",
+        "moment-timezone": "^0.5.43",
+        "os": "*",
+        "jimp": "*",
+        "open": "^9.1.0",
+        "yargs": "*",
+        "lowdb": "^5.1.0",
+        "lodash": "*",
+        "got": "*",
+        "syntax-error": "*",
+        "cheerio": "*",
+        "fluent-ffmpeg": "*",
+        "node-webpmux": "*",
+        "sharp": "*",
+        "mongoose": "*",
+        "file-type": "^18.5.0",
+        "pino-pretty": "*",
+        "url-regex-safe": "*",
+        		"qrcode": "^1.5.3",
+		"qrcode-terminal": "^0.12.0",
+        }
+}
