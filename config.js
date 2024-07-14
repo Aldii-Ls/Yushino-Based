@@ -43,9 +43,9 @@ global.logs = {
 };
 
 global.prems = []
-global.nomorbot = '6283838186170' // untuk send contact/owner
+global.nomorbot = ' ' // untuk send contact/owner
 global.nomorown = '628xxxxxxxx'
-global.mods = [`${nomorown}`, '6281263452943', '628xxxxxxxx']
+global.mods = [`${nomorown}`, '628xxxxxxxx']
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.readMore = readMore
