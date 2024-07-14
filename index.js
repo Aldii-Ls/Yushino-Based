@@ -4,7 +4,7 @@
   * Don't delete the watermark if you want to change it, it's better to add it *
   * All I did was change this code a little and adapt it, this is the initial base bot script without features, please add as you wish, don't forget to include the credits above
 */
-import config from './config.js';
+import './config.js';
 import Helper from './lib/helper.js'
 import { fileURLToPath } from 'url'
 import { join, dirname } from 'path'
