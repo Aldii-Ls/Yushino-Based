@@ -3,5 +3,5 @@
 - Allah yang maha esa
 - Orang tua
 - Semua Penyedia Based
-- [`WHISKEYSOCKETS`]('https://github.com/clicknetcafe')
-- [`CLICKNETCAFE`]('https://github.com/clicknetcafe')
+- [`WHISKEYSOCKETS`](https://github.com/whiskeysockets)
+- [`CLICKNETCAFE`](https://github.com/clicknetcafe)
